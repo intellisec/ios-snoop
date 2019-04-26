@@ -1,0 +1,9 @@
+Package: de.sectubs.analyzer
+Name: Analyzer
+Depends: mobilesubstrate
+Version: 0.5.0
+Architecture: iphoneos-arm
+Description: Analyzer for DiOS
+Maintainer: Micha Horlboge
+Author: Micha Horlboge
+Section: Tweaks
