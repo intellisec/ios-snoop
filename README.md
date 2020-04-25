@@ -22,10 +22,10 @@ sensitive user data has been successfully intercepted. However, only
 18 of these banking apps actually make use of mechanisms for
 Jailbreak detection. 
 
-<img src="https://dev.sec.tu-bs.de/ios/jbd-overview.svg" width="700">
+<img src="https://intellisec.org/research/ios/jbd-overview.svg" width="700">
 
 For details on the specific versions of the apps, please consult
-the [conference publication](https://dev.sec.tu-bs.de/ios/2019-eurosp.pdf).
+the [conference publication](https://intellisec.org/research/ios/2019-eurosp.pdf).
 
 # Code
 This repository contains a tweak for analyzing jailbreak detection
@@ -50,7 +50,7 @@ make package install
 ```
 
 # Publication
-A detailed description of our work is going to be presented at the
+A detailed description of our work has been presented at the
 4th IEEE European Symposium on Security and Privacy (EuroS&P 2019)
 in June 2019. If you would like to cite our work, please use the
 reference as provided below:
@@ -69,4 +69,4 @@ reference as provided below:
 }
 ```
 
-A preprint of the paper is available [here](https://dev.sec.tu-bs.de/ios/2019-eurosp.pdf).
+A preprint of the paper is available [here](https://intellisec.org/research/ios/2019-eurosp.pdf).
