@@ -42,7 +42,7 @@ app).
 
 ### Install
 ```
-git clone https://github.com/device-sec/ios-snoop.git
+git clone https://github.com/intellisec/ios-snoop.git
 cd ios-snoop
 export $THEOS_DEVICE_IP=<your_device_ip>
 export $THEOS_DEVICE_PORT=22
